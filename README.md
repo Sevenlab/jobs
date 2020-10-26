@@ -2,7 +2,7 @@
 
 # Open positions
 
-* [React developer](./frontend.md)
 * [iOS developer](./ios.md)
 * [Android developer](./ios.md)
+* [React developer](./frontend.md)
 * [DevOps](./devops.md)
