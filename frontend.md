@@ -4,7 +4,7 @@ An ideal candidate would have a strong passion for Bitcoin and a desire to make 
 
 ### Roles
 
-* Writing and maintaining UI code for a Hybrid Mobile app (Ionic React)
+* Writing and maintaining UI code for a Hybrid Mobile app (Ionic React) and backoffice dashboards.
 * Take ownership of products, hence make careful code reviews to other team members.
 * Apply empathetic, human-centered software design pricniples
 
