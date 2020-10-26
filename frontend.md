@@ -1,4 +1,4 @@
-## Front-end Developer
+## React Developer
 
 An ideal candidate would have a strong passion for Bitcoin and a desire to make using Bitcoin fast and simple for everyone.
 
