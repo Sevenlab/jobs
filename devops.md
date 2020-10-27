@@ -10,10 +10,10 @@ An ideal candidate would have a strong passion for digital assets and cryptocurr
 ### Skills
 
 * Bash scripting and Linux system administration
+* Knowledge of either Go or Python or NodeJS.
 * Strong expertise with Docker and docker-compose
 * Previous experience with Hydra or DEX OAuth is a strong plus.
 * Knowledge of AWS platform is a strong plus.
-* Knowledge of Go or Python or NodeJS is a strong plus.
 * Prior contributions to open source projects and experience in software development projects
 * Understanding of Bitcoin, other digital currencies, and cryptography in general
 * Understanding of distributed systems architectures and implications of peer-to-peer apps
